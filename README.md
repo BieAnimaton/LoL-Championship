@@ -1,6 +1,6 @@
 # LoL Championship
 
-This project creates a lot of hard password with words, numbers and special characters.
+This project asks for 6 characters and calculate their years, leagues, victories and defeats over the game League of Legends.
 
 ## Notes :books:
 - C programming to train skills.
