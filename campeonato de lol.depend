@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619006947 source:c:\users\bie_animation\onedrive\desktop\importants\eep\algoritmos e lógica de programação\curso de c\programas fora de aula\campeonato de lol\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+
